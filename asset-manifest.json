@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Front_End_Laba7/static/css/main.4f170672.css",
+    "main.js": "/Front_End_Laba7/static/js/main.639dbac4.js",
+    "index.html": "/Front_End_Laba7/index.html",
+    "main.4f170672.css.map": "/Front_End_Laba7/static/css/main.4f170672.css.map",
+    "main.639dbac4.js.map": "/Front_End_Laba7/static/js/main.639dbac4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f170672.css",
+    "static/js/main.639dbac4.js"
+  ]
+}
